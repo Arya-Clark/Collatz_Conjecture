@@ -1,5 +1,5 @@
 # Collatz_Conjecture
-A script to test whether an integer input behaves in accordance with the Collatz Conjecture.
+A Python script to test whether an integer input behaves in accordance with the Collatz Conjecture.
 The Collatz Conjecture works as follows:
 For any starting integer, N:
 if N is odd, multiply it by 3, then add one. The result becomes the new N.
